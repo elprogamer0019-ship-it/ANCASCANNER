@@ -1,0 +1,5 @@
+{
+    "ollama_ip": "10.147.19.170",
+    "ollama_port": "11434",
+    "ollama_model": "qwen2.5vl:7b"
+}
